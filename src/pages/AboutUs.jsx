@@ -1,9 +1,15 @@
+import { Helmet } from "react-helmet-async";
 import CustomerReview from "../components/CustomerReview";
 import TeamMember from "../components/TeamMember";
 
 const AboutUs = () => {
   return (
     <div>
+      {/* Dynamic Title */}
+      <Helmet>
+        <title>About Us | Gadget Heaven</title>
+      </Helmet>
+
       {/* Heading */}
       <div className="bg-[#9538E2] pt-12 space-y-2 pb-36 text-center relative">
         <h1 className="text-white text-4xl font-bold">About Us</h1>
