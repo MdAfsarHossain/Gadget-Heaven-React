@@ -3,7 +3,7 @@
 
 # [Live Link](https://mdafsarhossain-gadget-heaven.surge.sh/)
 
-# [Requirement Link](https://github.com/ProgrammingHero1/B10-A8-gadget-heaven/blob/main/Batch-10_Assignment-08-.pdf)
+# [Requirement Link](https://github.com/ProgrammingHero1/B10-A8-gadget-heaven/blob/main/Batch-10_Assignment-08.pdf)
 
 # React Fundamental Concepts Used
 - `Context API` - For managing the cart and wishlist data across the app.
