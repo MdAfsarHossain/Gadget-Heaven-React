@@ -1,0 +1,239 @@
+[
+  {
+    "product_id": "P001",
+    "product_title": "Gaming Laptop",
+    "product_image": "https://i.ibb.co.com/T2GVsJg/01hi-B08j7ya-JGJm-Pl2-Yh-RRH-59.webp",
+    "category": "computers",
+    "category_id": "C001",
+    "price": 1200,
+    "description": "A high-performance gaming laptop with the latest GPU and CPU for immersive gaming.",
+    "specification": [
+      "Intel i7 processor",
+      "16GB RAM",
+      "512GB SSD",
+      "RTX 3060 GPU"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "brand": "GameTech"
+  },
+  {
+    "product_id": "P002",
+    "product_title": "Ultrabook Laptop",
+    "product_image": "https://i.ibb.co.com/7zcG61n/ASUS-8-4.webp",
+    "category": "computers",
+    "category_id": "C001",
+    "price": 950,
+    "description": "Sleek and lightweight ultrabook for business and daily use.",
+    "specification": [
+      "Intel i5 processor",
+      "8GB RAM",
+      "256GB SSD",
+      "Integrated Graphics"
+    ],
+    "availability": true,
+    "rating": 3.5,
+    "brand": "LightBooks"
+  },
+  {
+    "product_id": "P003",
+    "product_title": "Desktop PC",
+    "product_image": "https://i.ibb.co.com/kJGwqDv/03y-EDe-Tz-Po1-Wx-Ou5-QGWq9-Zq-20-fit-lim-size-1050x.jpg",
+    "category": "computers",
+    "category_id": "C001",
+    "price": 800,
+    "description": "Customizable desktop PC suitable for gaming, designing, and work.",
+    "specification": [
+      "AMD Ryzen 5",
+      "16GB RAM",
+      "1TB HDD + 256GB SSD",
+      "GTX 1650 GPU"
+    ],
+    "availability": false,
+    "rating": 4.6,
+    "brand": "TechBuild"
+  },
+  {
+    "product_id": "P004",
+    "product_title": "All-in-One Computer",
+    "product_image": "https://i.ibb.co.com/L6tS9hZ/How-to-buy-a-desktop-PC-header.jpg",
+    "category": "computers",
+    "category_id": "C001",
+    "price": 1050,
+    "description": "Compact all-in-one PC for home and office, with built-in speakers and webcam.",
+    "specification": ["Intel i5", "8GB RAM", "512GB SSD", "Full HD Display"],
+    "availability": true,
+    "rating": 4.3,
+    "brand": "AIO Series"
+  },
+  {
+    "product_id": "P005",
+    "product_title": "Mini PC",
+    "product_image": "https://i.ibb.co.com/8sknhSL/d4749203-99c0-4a46-a518-4e612c61f956-3fc71796d84cd9632f4514e2e51426fd.webp",
+    "category": "computers",
+    "category_id": "C001",
+    "price": 550,
+    "description": "Portable and powerful mini PC for versatile applications.",
+    "specification": ["Intel i3", "4GB RAM", "128GB SSD", "Wi-Fi 6 Support"],
+    "availability": true,
+    "rating": 4.2,
+    "brand": "CompactPC"
+  },
+  {
+    "product_id": "P006",
+    "product_title": "Workstation Desktop",
+    "product_image": "https://i.ibb.co.com/BBNVFGf/photo-1696710257827-75e2e5954059.jpg",
+    "category": "computers",
+    "category_id": "C001",
+    "price": 1500,
+    "description": "High-performance workstation designed for professional use.",
+    "specification": ["Intel Xeon", "32GB RAM", "1TB SSD", "Quadro P2200 GPU"],
+    "availability": false,
+    "rating": 4.9,
+    "brand": "ProWork"
+  },
+  {
+    "product_id": "P007",
+    "product_title": "Smartphone Pro",
+    "product_image": "https://i.ibb.co.com/Br6q9Tm/Xiaomi-Mi-11-T-Pro-5-G-Smartphone.jpg",
+    "category": "phones",
+    "category_id": "C002",
+    "price": 900,
+    "description": "Flagship smartphone with high-resolution display and powerful camera.",
+    "specification": [
+      "Snapdragon 888",
+      "8GB RAM",
+      "128GB Storage",
+      "108MP Camera"
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "brand": "PhonePlus"
+  },
+  {
+    "product_id": "P008",
+    "product_title": "Budget Smartphone",
+    "product_image": "https://i.ibb.co.com/sgB8J3P/images.jpg",
+    "category": "phones",
+    "category_id": "C002",
+    "price": 300,
+    "description": "Affordable smartphone with essential features for daily use.",
+    "specification": [
+      "MediaTek Helio",
+      "4GB RAM",
+      "64GB Storage",
+      "13MP Camera"
+    ],
+    "availability": false,
+    "rating": 4.1,
+    "brand": "SmartX"
+  },
+  {
+    "product_id": "P009",
+    "product_title": "Smart Watch X",
+    "product_image": "https://i.ibb.co.com/wNz95CK/1-3.jpg",
+    "category": "smart watches",
+    "category_id": "C003",
+    "price": 250,
+    "description": "Smartwatch with health monitoring and fitness tracking.",
+    "specification": [
+      "Heart Rate Monitor",
+      "GPS",
+      "Water Resistant",
+      "Bluetooth"
+    ],
+    "availability": true,
+    "rating": 4.4,
+    "brand": "WatchSmart"
+  },
+  {
+    "product_id": "P010",
+    "product_title": "Sport Smart Watch",
+    "product_image": "https://i.ibb.co.com/XkGB0pH/Cyberdyer-K56-Pro-Military-Smart-Watch-Men-Outdoor-Tactical-Sports-Smartwatch-5-ATM-Waterproof-Rugge.webp",
+    "category": "smart watches",
+    "category_id": "C003",
+    "price": 180,
+    "description": "Durable smartwatch designed for sports enthusiasts.",
+    "specification": [
+      "Sleep Tracker",
+      "Waterproof",
+      "Touch Display",
+      "Battery Life up to 10 days"
+    ],
+    "availability": true,
+    "rating": 4.3,
+    "brand": "ActiveTech"
+  },
+  {
+    "product_id": "P011",
+    "product_title": "Fast Charging Charger",
+    "product_image": "https://i.ibb.co.com/x7GpBBg/61gs2fk-KNu-L-AC-UF350-350-QL80.jpg",
+    "category": "chargers",
+    "category_id": "C004",
+    "price": 60,
+    "description": "High-speed charging adapter with universal compatibility.",
+    "specification": [
+      "USB-C",
+      "20W Output",
+      "Quick Charge 3.0",
+      "Compact Design"
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "brand": "ChargeMax"
+  },
+  {
+    "product_id": "P012",
+    "product_title": "Power Bank 20000mAh",
+    "product_image": "https://i.ibb.co.com/mB6b457/firstpost-SML-01.webp",
+    "category": "power banks",
+    "category_id": "C005",
+    "price": 100,
+    "description": "High-capacity power bank with dual USB ports.",
+    "specification": [
+      "20000mAh Capacity",
+      "Fast Charging",
+      "LED Indicator",
+      "Portable"
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "brand": "PowerGo"
+  },
+  {
+    "product_id": "P013",
+    "product_title": "Portable Power Bank 10000mAh",
+    "product_image": "https://i.ibb.co.com/ScCKFC1/5-4d11f286-07a6-48b2-bd93-f1449644b38e.webp",
+    "category": "power banks",
+    "category_id": "C005",
+    "price": 70,
+    "description": "Compact and lightweight power bank for on-the-go charging.",
+    "specification": [
+      "10000mAh Capacity",
+      "Dual USB Ports",
+      "LED Indicator",
+      "Fast Charging"
+    ],
+    "availability": true,
+    "rating": 4.3,
+    "brand": "ChargeIt"
+  },
+  {
+    "product_id": "P014",
+    "product_title": "USB-C Fast Charger",
+    "product_image": "https://i.ibb.co.com/87002Tc/aed7ac163018ea0f20da44ca0c863ae5-jpg-720x720q80.jpg",
+    "category": "chargers",
+    "category_id": "C004",
+    "price": 75,
+    "description": "USB-C fast charger with PD support for rapid charging of compatible devices.",
+    "specification": [
+      "USB-C PD",
+      "30W Output",
+      "Compact Design",
+      "Overcharge Protection"
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "brand": "SpeedyCharge"
+  }
+]
