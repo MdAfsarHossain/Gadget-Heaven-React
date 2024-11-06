@@ -1,0 +1,30 @@
+[
+  {
+    "category_id": "C000",
+    "category_name": "All Products"
+  },
+  {
+    "category_id": "C001",
+    "category_name": "Computers"
+  },
+  {
+    "category_id": "C002",
+    "category_name": "Phones"
+  },
+  {
+    "category_id": "C003",
+    "category_name": "Smart Watches"
+  },
+  {
+    "category_id": "C004",
+    "category_name": "Chargers"
+  },
+  {
+    "category_id": "C005",
+    "category_name": "Power Banks"
+  },
+  {
+    "category_id": "C006",
+    "category_name": "Head Phones"
+  }
+]
