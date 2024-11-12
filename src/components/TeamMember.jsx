@@ -250,7 +250,7 @@ const TeamMember = () => {
             <img
               alt=""
               className="self-center flex-shrink-0 w-24 h-24 -mt-12 bg-center bg-cover rounded-full bg-gray-500"
-              src="https://scontent.fcgp29-1.fna.fbcdn.net/v/t39.30808-6/465445905_563403159568630_618165361735235674_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=ayRgBMj4YBgQ7kNvgHyh4rK&_nc_zt=23&_nc_ht=scontent.fcgp29-1.fna&_nc_gid=Ap4MGydpI5jF9CjB3pB1lq9&oh=00_AYAcfMbDF_gVn2KcusFujht1c--90GbZ4Bofd6DxXUKd_g&oe=67301E7C"
+              src="https://i.ibb.co.com/SxW2LmQ/465445905-563403159568630-618165361735235674-n.jpg"
             />
             <div className="flex-1 my-4">
               <p className="text-xl font-semibold leading-snug">Aminul Islam</p>
